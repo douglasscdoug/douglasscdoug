@@ -13,7 +13,7 @@ Atualmente construindo projetos voltados para sistemas corporativos, aplicaçõe
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://douglascabral.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Cabral-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/douglas-cabral-531a49165)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:douglasscdoug@gmail.com)
-
+![](https://komarev.com/ghpvc/?username=douglasscdoug&label=Profile+Views&color=0e75b6&style=for-the-badge)
 ---
 
 ## 🚀 Stack Tecnológica
