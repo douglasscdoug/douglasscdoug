@@ -7,7 +7,9 @@ Atuo no desenvolvimento de sistemas completos, APIs REST, autenticação com JWT
 Atualmente construindo projetos voltados para sistemas corporativos, aplicações escaláveis e soluções orientadas à experiência do usuário.
 
 🌐 **Portfólio:** https://douglascabral.dev
+
 💼 **LinkedIn:** https://www.linkedin.com/in/douglas-cabral-531a49165
+
 📧 **E-mail:** [douglasscdoug@gmail.com](mailto:douglasscdoug@gmail.com)
 
 ---
