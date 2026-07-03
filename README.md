@@ -1,8 +1,16 @@
-# Olá, eu sou Douglas Cabral
+# Olá, eu sou Douglas Cabral 👋
 
-Desenvolvedor Full Stack focado em aplicações web utilizando Angular, ASP.NET Core e SQL Server.
+Desenvolvedor Full Stack com foco em aplicações web utilizando **C#, ASP.NET Core, Angular, SQL Server e SQLite**.
 
-Atualmente desenvolvendo projetos voltados para sistemas corporativos, APIs REST e aplicações escaláveis, com foco em boas práticas, arquitetura em camadas e experiência do usuário.
+Atuo no desenvolvimento de sistemas completos, APIs REST, autenticação com JWT + Refresh Token, integração front-end e back-end, arquitetura em camadas e boas práticas como **SOLID** e **Clean Architecture**.
+
+Atualmente construindo projetos voltados para sistemas corporativos, aplicações escaláveis e soluções orientadas à experiência do usuário.
+
+🌐 **Portfólio:** https://douglascabral.dev
+💼 **LinkedIn:** https://www.linkedin.com/in/douglas-cabral-531a49165
+📧 **E-mail:** [douglasscdoug@gmail.com](mailto:douglasscdoug@gmail.com)
+
+---
 
 ## 🚀 Tecnologias
 
@@ -10,50 +18,92 @@ Atualmente desenvolvendo projetos voltados para sistemas corporativos, APIs REST
 
 * C#
 * ASP.NET Core
-* Entity Framework
+* Entity Framework Core
 * SQL Server
+* SQLite
 * JWT Authentication
+* Refresh Token
+* AutoMapper
+* REST API
 
 ### Frontend
 
 * Angular
 * TypeScript
+* RxJS
+* Reactive Forms
 * Bootstrap
 * ngx-bootstrap
 
-### Ferramentas
+### Arquitetura e Boas Práticas
+
+* SOLID
+* Clean Architecture
+* DTOs
+* Repository Pattern
+* Arquitetura em Camadas
+
+### Ferramentas e Deploy
 
 * Git
 * GitHub
-* AutoMapper
+* Cloudinary
+* Vercel
+* Railway
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🏢 Sistema Administrativo Empresarial
+### 🎉 ProEventos
 
-Sistema Full Stack desenvolvido para gerenciamento de empresas, usuários e processos administrativos.
+Sistema Full Stack para gerenciamento de eventos, palestrantes e lotes.
 
-🔹 Angular + ASP.NET Core
-🔹 JWT Authentication
-🔹 Arquitetura em camadas
-🔹 CRUD completo
-🔹 Filtros e paginação
+✔ API REST com ASP.NET Core
+✔ Front-end em Angular
+✔ Upload de imagens com Cloudinary
+✔ CRUD completo
+✔ Entity Framework Core
+✔ SQL Server
+✔ Deploy em cloud
 
-➡️ Link do projeto: https://github.com/douglasscdoug/Sistema-Administrativo-de-Empresas.git
+🔗 **Demo:** https://pro-eventos-swart.vercel.app/
+💻 **Código:** https://github.com/douglasscdoug/ProEventos
 
 ---
 
-### 🎉 ProEventos
+### 🏢 Sistema Administrativo de Empresas
 
-Aplicação Full Stack para gerenciamento de eventos e participantes.
+Sistema Full Stack para gerenciamento de empresas, usuários e processos administrativos.
 
-➡️ Link do projeto: https://github.com/douglasscdoug/ProEventos.git
+✔ Angular + ASP.NET Core
+✔ JWT Authentication + Refresh Token
+✔ Arquitetura em camadas
+✔ CRUD completo
+✔ Filtros e paginação
+✔ SQLite
+✔ Deploy em cloud
+
+🔗 **Demo:** https://sistema-administrativo-de-empresas.vercel.app/login
+💻 **Código:** https://github.com/douglasscdoug/Sistema-Administrativo-de-Empresas
+
+---
+
+### 🌐 Portfólio Profissional
+
+Aplicação web para apresentação profissional, projetos e stack tecnológica.
+
+✔ Angular Standalone Components
+✔ Design responsivo
+✔ SEO básico
+✔ Deploy em domínio próprio
+
+🔗 **Demo:** https://douglascabral.dev
+💻 **Código:** https://github.com/douglasscdoug/douglas-dev-portfolio
 
 ---
 
 ## 📫 Contato
 
 * LinkedIn: https://www.linkedin.com/in/douglas-cabral-531a49165
-* E-mail: douglasscdoug@gmail.com
+* E-mail: [douglasscdoug@gmail.com](mailto:douglasscdoug@gmail.com)
