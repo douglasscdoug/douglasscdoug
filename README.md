@@ -53,7 +53,7 @@ Atualmente construindo projetos voltados para sistemas corporativos, aplicaçõe
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=douglasscdoug&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=douglasscdoug\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-rho-three.vercel.app/?user=douglasscdoug&theme=tokyonight&hide_border=true)
 
 ---
 
